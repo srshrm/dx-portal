@@ -32,6 +32,12 @@ const CONFIG = {
   },
 };
 
+// Load LCP image immediately
+(async function loadLCPImage() {
+  const lcpImg = document.querySelector('img');
+  lcpImg?.removeAttribute('loading');
+}());
+
 /*
  * ------------------------------------------------------------
  * Edit below at your own risk

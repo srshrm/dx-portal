@@ -1,3 +1,5 @@
+## NOTE: This repo is moved to [adobe/dx-portal](https://github.com/adobe/dx-portal). Please use [adobe/dx-portal](https://github.com/adobe/dx-portal) to add any new code or to use with Franklin sidekick.
+
 # Milo goes to college
 Use this project template to create a Milo site.
 
